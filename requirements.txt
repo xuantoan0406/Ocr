@@ -1,0 +1,9 @@
+imutils==0.5.4
+opencv-python==4.5.5.64
+Pillow
+PyMuPDF==1.19.0
+python-docx==0.8.11
+torch
+torchvision
+vietocr==0.3.8
+pyyaml
